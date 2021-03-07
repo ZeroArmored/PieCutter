@@ -2,14 +2,11 @@
 	"project": "PieCutter",
 	"date": "1712021",
 	"update_url": "https://github.com/ZeroArmored/PieCutter/blob/master/fetch/update.json",
+	"update_integrity": "https://github.com/ZeroArmored/PieCutter/blob/master/fetch/sha256.txt",
 	"data": {
 		"force": false,
 		"version" : "1.0.0.1",
 		"download": "https://",
-		"hash_db": 
-		{
-			"sha512": 0,
-			"sha256": 0
-		}
+		"hash_db": "https://raw.githubusercontent.com/ZeroArmored/PieCutter/master/integrity/sha256.txt"
 	}
 }
